@@ -1,0 +1,5 @@
+iedb_public.sql.gz
+iedb_public.tar.gz
+mysqldata/
+*.swp
+*.swo
